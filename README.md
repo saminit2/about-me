@@ -1,5 +1,5 @@
 # 💫 About Me
-I'm Salar Amini, a translator and machine learning engineer with a passion for language and technology. With 8 years of experience in translation, I specialize in English to Persian and vice versa. Over the past 2 years, I've delved into the world of machine learning, working on various projects and honing my skills.
+I'm Salar Amini, a translator and machine learning engineer with a passion for language and technology. With 8 years of experience in translation, I specialize in English to Persian and vice versa. Over the past 2 years, I've dived into the world of machine learning, working on various projects and honing my skills.
 
 ## 🌐 Socials
 Connect with me on:
@@ -16,7 +16,6 @@ I'm proficient in:
 - Web technologies including HTML5 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) and CSS3 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white)
 - Cloud platforms like Google Cloud ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=plastic&logo=google-cloud&logoColor=white)
 - Keras ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=plastic&logo=Keras&logoColor=white)
-- Tor ![TOR](https://img.shields.io/badge/tor-%237E4798.svg?style=plastic&logo=tor-project&logoColor=white)
 
 # 📊 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=saminit2&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
